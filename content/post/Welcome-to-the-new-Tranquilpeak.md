@@ -17,6 +17,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
+#thumbnailImage: https://res.cloudinary.com/raunakkapoor/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1634108649/IMG_8323_lq7iew.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
 ---

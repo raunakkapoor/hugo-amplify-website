@@ -5,7 +5,8 @@ date: 2015-06-14
 categories:
 - tranquilpeak
 - showcase
-thumbnailImagePosition: left
+#thumbnailImagePosition: left
+thumbnailImagePosition: top
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 ---
 
