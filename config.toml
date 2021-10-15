@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "/"
+baseURL = "https://www.ouradventures.in/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Our Adventures"
@@ -210,6 +210,7 @@ href = "css/my-custom.css"
 name = "Facebook"
 icon = "fa-facebook-official"
 url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+
 
 [[params.sharingOptions]]
 name = "Twitter"
