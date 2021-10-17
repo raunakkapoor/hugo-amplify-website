@@ -9,25 +9,24 @@ tags:
 - USA
 - Road Trip
 thumbnailImagePosition: top
-thumbnailImage: https://lh3.googleusercontent.com/pw/AM-JKLVXFT8mh7O9zwLBGpBpyR2va_iENMukJqH0fWlIY5QcXaXaLagWZXdxia4d15LHW7Mca_E7-wVFYZa_XauWXg7GfLKhdUiFZFhA285SKTzU6Z_3DAMAQoxfP3XkToeGWIx8hQ6trzNPhntP-pmqTyg=w400-h1000
-coverImage: https://lh3.googleusercontent.com/pw/AM-JKLVXFT8mh7O9zwLBGpBpyR2va_iENMukJqH0fWlIY5QcXaXaLagWZXdxia4d15LHW7Mca_E7-wVFYZa_XauWXg7GfLKhdUiFZFhA285SKTzU6Z_3DAMAQoxfP3XkToeGWIx8hQ6trzNPhntP-pmqTyg=w1250-h937
-#IMG_8323
+thumbnailImage: https://live.staticflickr.com/65535/51598123729_39c629f109.jpg
+coverImage: https://live.staticflickr.com/65535/51598123729_db5d3594ce_o.jpg
 metaAlignment: center
 #coverMeta: out #commenting it out put the metadata(name and date) on the full image
 
 ---
 <!--more-->
 
-{{< google_mymap "https://www.google.com/maps/d/embed?mid=1Fcy6i3bKHkGRYGTwlo0m62rorjl55LmB" >}}
-
 ## Hello Friends, Hope y’all are doing well.
 
 We planned the road trip of Oregon, USA in the month of June 2021. It was our first travel after the Covid-19 restrictions, and we really enjoyed every moment of our trip. The splendid coastline, natural forests, lakes, mountains, Oregon state has everything that a traveler wish to see.
 
-We want to share our 5 days itinerary, hope it will help to plan your perfect Oregon trip.
+We want to share our 5 days itinerary, hope it will help you to plan a perfect Oregon trip.
+
+{{< google_mymap "https://www.google.com/maps/d/embed?mid=1Fcy6i3bKHkGRYGTwlo0m62rorjl55LmB" >}}
 
 ## Transportation
-We booked flight to reach Portland International Airport(PDX) as Portland city is near to all attraction points.
+Flight from DFW to Portland International Airport(PDX) and from there we rented a car to start the journey.
 
 
 ## Day 0 - Flight from DFW to PDX
@@ -43,6 +42,29 @@ While we were waiting on flight, we got chance to see the cockpit and talk with 
 {{< image classes="right fig-50" src="https://live.staticflickr.com/65535/51596643447_56c32d127c_o.jpg" thumbnail="https://live.staticflickr.com/65535/51596643447_56c32d127c_o.jpg" >}}
 
 
-## Day 1 - Columbia river gorge & Mount hood
-we sdf
+## Day 1 - Columbia river gorge National Scenic Area & Mount hood
+We decided to visit falls at [Columbia river gorge National Scenic Area](https://www.fs.usda.gov/main/crgnsa/home). There are several mesmerizing falls along the way, the ones we liked are:
+
+- [Multnomah Falls](https://www.fs.usda.gov/recarea/crgnsa/recarea/?recid=30026)
+- [Wahkeena Trail](https://www.fs.usda.gov/recarea/crgnsa/recarea/?recid=29998)
+- [Horsetail Falls & Trail](https://www.fs.usda.gov/recarea/crgnsa/recarea/?recid=29934)
+
+If you have to select only one, best option will be **{{< hl-text cyan >}}Multnomah Falls{{< /hl-text >}}**. Although it remains little crowded but still a worth visiting there. There is an easy walking trail that will take you to viewing deck and from there the falls view is really beautiful. If you wish you can continue on the trail and go to top of fall for spectacular views. More details about the trail: [Alltrails - Multnomah Falls ](https://www.alltrails.com/trail/us/oregon/multnomah-falls-trail) 
+
+If you want to grab a quick bite or want to go to restroom, the [Multnomah lodge](https://www.multnomahfallslodge.com/) restaurant, restrooms and gift shop are just nearby and open to public.
+
+{{< alert success >}}
+**Tip**: There are very few parking spots available right by Multnomah Falls (If you are reaching there using google maps/GPS), you won't find a spot available even midday on weekdays. Instead, park in the larger lot by the highway exit and take the walking trail to the falls.
+{{< /alert >}}
+
+
+[comment]: <> ({{< image classes="center margin top" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}})
+{{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}}
+
+
+
+
+
+
+
 
