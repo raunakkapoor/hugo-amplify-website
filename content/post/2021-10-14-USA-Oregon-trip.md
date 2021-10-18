@@ -57,9 +57,15 @@ If you want to grab a quick bite or want to go to restroom, the [Multnomah lodge
 **Tip**: There are very few parking spots available right by Multnomah Falls (If you are reaching there using google maps/GPS), you won't find a spot available even midday on weekdays. Instead, park in the larger lot by the highway exit and take the walking trail to the falls.
 {{< /alert >}}
 
-
 [comment]: <> ({{< image classes="center margin top" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}})
 {{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}}
+
+Next stop [Tamanawas Falls trail](https://www.alltrails.com/trail/us/oregon/tamanawas-falls-trail), our intial plan was to pack the lunch and eat at the end of the 4 mile hike tail with gorgeous views of Tamanawas falls waterfall but we had to skip it as we spent good amount of time at Multnomah Falls. If you get chance, you should include it in your itinerary. 
+
+After that we head over to [Trillium lake](https://www.fs.usda.gov/recarea/mthood/recarea/?recid=53634), we drive pretty much to the lake and the hiked around the lake which was around 1-1.5 miles. We were able to capture very beautiful views of Mount Hood and the lake there.
+
+{{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51599767757_288a390e37_o.jpg" thumbnail="https://live.staticflickr.com/65535/51599767757_288a390e37_o.jpg" >}}
+
 
 
 
