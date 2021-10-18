@@ -58,7 +58,8 @@ If you want to grab a quick bite or want to go to restroom, the [Multnomah lodge
 {{< /alert >}}
 
 [comment]: <> ({{< image classes="center margin top" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}})
-{{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}}
+{{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_d64eea86b0_b.jpg" >}}
+
 
 Next stop [Tamanawas Falls trail](https://www.alltrails.com/trail/us/oregon/tamanawas-falls-trail), our intial plan was to pack the lunch and eat at the end of the 4 mile hike tail with gorgeous views of Tamanawas falls waterfall but we had to skip it as we spent good amount of time at Multnomah Falls. If you get chance, you should include it in your itinerary. 
 

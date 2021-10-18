@@ -342,7 +342,7 @@ url = "https://www.reddit.com/submit?url=%s"
 [params.comment]
 [params.comment.disqus]
 enable = true
-shortname = "raunakkapoor08"
+shortname = "www-ouradventures-in"
 
 #[params.comment.gitalk]
 #enable = false
