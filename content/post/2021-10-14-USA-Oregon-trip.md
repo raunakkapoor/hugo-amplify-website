@@ -1,5 +1,5 @@
 ---
-title: "Oregon road trip"
+title: "Oregon trip"
 date: 2021-06-22
 categories:
 - USA
@@ -7,7 +7,6 @@ categories:
 tags:
 - Oregon
 - USA
-- Road Trip
 thumbnailImagePosition: top
 thumbnailImage: https://live.staticflickr.com/65535/51598123729_39c629f109.jpg
 coverImage: https://live.staticflickr.com/65535/51598123729_db5d3594ce_o.jpg
@@ -19,7 +18,7 @@ metaAlignment: center
 
 ## Hello Friends, hope y’all are doing well.
 
-We planned the road trip of Oregon, USA in the month of June 2021. It was our first travel after the Covid-19 restrictions, and we really enjoyed every moment of our trip. The splendid coastline, natural forests, lakes, mountains, Oregon state has everything that a traveler wish to see.
+We planned the trip of Oregon, USA in the month of June 2021. It was our first travel after the Covid-19 restrictions, and we really enjoyed every moment of our trip. The splendid coastline, natural forests, lakes, mountains, Oregon state has everything that a traveler wish to see.
 
 We want to share our 5 days itinerary, hope it will help you to plan a perfect Oregon trip.
 
