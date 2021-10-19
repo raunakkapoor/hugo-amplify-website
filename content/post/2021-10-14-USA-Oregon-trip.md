@@ -1,6 +1,6 @@
 ---
 title: "Oregon trip"
-date: 2021-06-22
+date: 2021-10-14
 categories:
 - USA
 - Oregon
@@ -76,10 +76,11 @@ Things to do near Timberline Lodge:
 - [Village of Government Camp](https://mounthoodinfo.com/visitor-services/lodging/), lots of good lodging options are available here.
 
 
-## Day 2: Smith rock state park
-We moved ahead towards our next destination [Smith rock state park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=36). 
+## Day 2: Little crater lake, Smith rock state park & Painted Hills
 
-Things to do at Smith rock state park
+Quick stop at [Little crater lake](https://www.alltrails.com/trail/us/oregon/little-crater-lake-trail). It is hidden treasure in Mount Hood National Forest. There is small trail which is easy & calming which will directly to the little crater lake. Give a visit if you are passing through.   
+
+After that we moved towards our next destination [Smith rock state park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=36). Things to do at Smith rock state park :
 - [Trails and hikes](https://smithrock.com/hike). You can select easiest to more difficult to most difficult trails and spend quality time.
 - [Rock climbing](https://smithrock.com/climb) - Smith Rock State Park is one of the best routes in the country to rock climb, both sport and trad.
 
@@ -87,18 +88,50 @@ Things to do at Smith rock state park
 **Tip**: There is a day use fee of $5 per vehicle Smith rock state park. If you are planning to go to multiple state parks, it is better to get annual day-use parking pass for $30. Purchase it here [Oregon Parks](https://store.oregonstateparks.org/)   
 {{< /alert >}}
 
+Next stop [Painted Hills](https://www.nps.gov/joda/planyourvisit/ptd-hills-unit.htm), if you want to see a natural wonder then come see Painted Hills. It is part of John Day Fossil Beds National Monument Park and as the name suggest hills looks like painted by the nature itself. It is breathtakingly beautiful. There is a small trail at Painted Hills overlook which gives amazing views of painted hills.
+
+
+{{< alert info >}}
+**Note**: Summers can get pretty hot, so make sure to wear a hat, put on sunscreen and drink plenty of water when exploring the area. Only restroom facilities are located at the Painted Hills overlook trail head, so plan accordingly.
+{{< /alert >}}
+
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51604351426_5c8916cd2d_o.jpg" thumbnail="https://live.staticflickr.com/65535/51604351426_5174d3e117.jpg" >}}
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51596643652_c95e3f3c62_o.jpg" thumbnail="https://live.staticflickr.com/65535/51596643652_e9df959a63.jpg" >}}&nbsp;
+
 ##### Accommodation
-- After long hikes at Smith rock state park, we decided to call it a day near {{< hl-text cyan >}}Prineville, OR 97754{{< /hl-text >}}. Lots of good hotels options are available here.
+- After long hikes at Smith rock state park and at Painted hills, we decided to call to take rest near Prineville, Oregon. Lots of  good restaurant & hotels options are available here, and it is in between Smith rock state park and Painted hills.
 
-## Day 3 - Painted Hills, Deschutes National Forest & Crater lake
+## Day 3 - Deschutes National Forest & Crater lake
+Next stop in our journey was [Deschutes National Forest](https://www.fs.usda.gov/main/deschutes/home), it has a lots of beautiful[trails](https://www.alltrails.com/parks/us/oregon/deschutes-national-forest) that you can choose. We selected Deschutes River Trail and had an amazing time there. 
 
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51604502716_76e1fe69e4_o.jpg" thumbnail="https://live.staticflickr.com/65535/51604502716_76e1fe69e4_o.jpg" >}}
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51604502806_d44e757651_o.jpg" thumbnail="https://live.staticflickr.com/65535/51604502806_d44e757651_o.jpg" >}}&nbsp;
 
+After spending good time at Deschutes National Forest, we moved ahead to [Crater lake](hhttps://www.nps.gov/crla/index.htm). Crater lake is no doubt most beautiful lake we have ever seen.
+
+{{< alert success >}}
+**Tip**: The entrance fee for Crater lake National Park is $30. You can save some $ if you have annual $80 national park [pass](https://www.nps.gov/planyourvisit/passes.htm).
+{{< /alert >}}
+
+{{< alert warning >}}
+Due to heavy snow during winter season, there is a good chance mutiple Rim Drives remain closed. You can get latest updates on what is open [there](https://www.nps.gov/crla/planyourvisit/hours.htm) before heading there.
+{{< /alert >}}
+
+Things to do at {{< hl-text cyan >}}Crater Lake{{</ hl-text >}}:
+- Drive in clockwise direction as most of pull offs will be on right & the best place to go for a walk with a view of Crater Lake is along the East Rim Drive. 
+- Watch the beautiful sunset at Watchman Peak.
+- Explore several trails.
+  
+{{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51605274468_ed2199bac1_o.jpg" thumbnail="https://live.staticflickr.com/65535/51605274468_ed2199bac1_o.jpg" >}}
 
 
 ##### Accommodation
-- Since we moved toward Smith rock state Park, we decided to call it a day near Prineville, OR 97754. Lots of good hotels options are available here.
+- If you want to stay closer to Crater lake then best options are Crater Lake lodge and The cabins at Manzana Village. You can book them online [here](https://www.nps.gov/crla/planyourvisit/lodges.htm).
+- If you don't get booking there then you can stay at the nearest town is Chemult, Oregon.
 
-## Day 4 - Falls & Coastline
+
+## Day 4 - Falls, Sea Lion Caves & Coastline
+
 
 ##### Accommodation
 - Since we moved toward Smith rock state Park, we decided to call it a day near Prineville, OR 97754. Lots of good hotels options are available here.
