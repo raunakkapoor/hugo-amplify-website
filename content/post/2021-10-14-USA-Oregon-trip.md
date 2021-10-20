@@ -7,6 +7,7 @@ categories:
 tags:
 - Oregon
 - USA
+- Road Trip
 thumbnailImagePosition: top
 thumbnailImage: https://live.staticflickr.com/65535/51598123729_39c629f109.jpg
 coverImage: https://live.staticflickr.com/65535/51598123729_db5d3594ce_o.jpg
@@ -124,20 +125,32 @@ Things to do at {{< hl-text cyan >}}Crater Lake{{</ hl-text >}}:
   
 {{< image classes="fancybox fig-100" src="https://live.staticflickr.com/65535/51605274468_ed2199bac1_o.jpg" thumbnail="https://live.staticflickr.com/65535/51605274468_ed2199bac1_o.jpg" >}}
 
-
 ##### Accommodation
 - If you want to stay closer to Crater lake then best options are Crater Lake lodge and The cabins at Manzana Village. You can book them online [here](https://www.nps.gov/crla/planyourvisit/lodges.htm).
-- If you don't get booking there then you can stay at the nearest town is Chemult, Oregon.
+- If you don't get booking there then you can stay at the nearest town Chemult, Oregon.
 
 
-## Day 4 - Falls, Sea Lion Caves & Coastline
+## Day 4 - Bend Falls, Sea Lion Cave & Oregon Coastline
+
+We started the day by visting the beautiful Bend falls.
+- Koosah and sahalie [falls](https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail)
+- Blue Pool - Tamolitch [fall](https://www.alltrails.com/trail/us/oregon/tamolitch-blue-pool-via-mckenzie-river-trail) 
+- Proxy [fall](https://www.alltrails.com/trail/us/oregon/proxy-falls)
+
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608287806_48681cfce1_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608287806_48681cfce1_o.jpg" >}}
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608944574_cc0ec0fb9f_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608944574_cc0ec0fb9f_o.jpg" >}}&nbsp;
+
+
+Sea line caves
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51607398557_f3e99d6d25_o.jpg" thumbnail="https://live.staticflickr.com/65535/51607398557_f3e99d6d25_o.jpg" >}}
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608875934_4826294e63_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608875934_4826294e63_o.jpg" >}}&nbsp;
 
 
 ##### Accommodation
 - Since we moved toward Smith rock state Park, we decided to call it a day near Prineville, OR 97754. Lots of good hotels options are available here.
 
 
-## Day 5 - Coastline, Crater Lake
+## Day 5 - Oregon Coastline, Aquarium & Canon Beach
 
 
 ##### Accommodation
