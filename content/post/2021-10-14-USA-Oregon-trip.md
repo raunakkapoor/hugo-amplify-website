@@ -20,7 +20,9 @@ metaAlignment: center
 ---
 <!--more-->
 
-## Hello Friends, hope y’all are doing well.
+## Oregon Road Trip Itinerary - 5 to 6 Days
+
+Hello Friends, hope y’all are doing well.
 
 We planned the trip of Oregon, USA in the month of June 2021. It was our first travel after the Covid-19 restrictions, and we really enjoyed every moment of our trip. The splendid coastline, natural forests, lakes, mountains, Oregon state has everything that a traveler wish to see.
 
