@@ -8,6 +8,9 @@ tags:
 - Oregon
 - USA
 - Road Trip
+- Sea Lions
+- Crater Lake
+- Oregon Coastline
 thumbnailImagePosition: top
 thumbnailImage: https://live.staticflickr.com/65535/51598123729_39c629f109.jpg
 coverImage: https://live.staticflickr.com/65535/51598123729_db5d3594ce_o.jpg
