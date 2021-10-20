@@ -135,9 +135,9 @@ Things to do at {{< hl-text cyan >}}Crater Lake{{</ hl-text >}}:
 - If you don't get booking there then you can stay at the nearest town Chemult, Oregon.
 
 
-## Day 4 - Bend Falls, Sea Lion Cave & Oregon Coastline
+## Day 4 - McKenzie River Trail Falls, Sea Lion Cave & Oregon Coastline
 
-We started the day by visting the beautiful Bend falls.
+New beautiful day began by visiting falls at McKenzie River Trail. It was quite refreshing, trails were properly marked & easy to walk.
 - Koosah and sahalie [falls](https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail)
 - Blue Pool - Tamolitch [fall](https://www.alltrails.com/trail/us/oregon/tamolitch-blue-pool-via-mckenzie-river-trail) 
 - Proxy [fall](https://www.alltrails.com/trail/us/oregon/proxy-falls)
@@ -145,10 +145,15 @@ We started the day by visting the beautiful Bend falls.
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608287806_48681cfce1_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608287806_48681cfce1_o.jpg" >}}
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608944574_cc0ec0fb9f_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608944574_cc0ec0fb9f_o.jpg" >}}&nbsp;
 
-
-Sea line caves
+Next stop was famous America largest Sea lion [cave](http://www.sealioncaves.com/), we reached just 5 mins before closing time and able to get in. It's natural cave and sea lions are free to come and go anytime. We found some sea lion were inside the cave and others were resting outside. Overall it was fun place to spend time and see sea lions.
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51607398557_f3e99d6d25_o.jpg" thumbnail="https://live.staticflickr.com/65535/51607398557_f3e99d6d25_o.jpg" >}}
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608875934_4826294e63_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608875934_4826294e63_o.jpg" >}}&nbsp;
+
+{{< youtube -HcQdb2spRY >}}
+
+Now we finally arrived at the splendid Oregon coastline. First stop was Heceta Head Lighthouse State Scenic Viewpoint and nearby beach. When we reached Heceta Head Lighthouse was closed so we spent wonderful time at the beach. Water was so clean and cold, every moment there was mesmerizing. We ate our packed dinner at the beach by watching the sunset. It was really best moment of our trip.
+
+
 
 
 ##### Accommodation

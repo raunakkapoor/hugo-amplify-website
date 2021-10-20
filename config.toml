@@ -40,8 +40,6 @@ location = "Dallas, Texas, USA"
 #gravatarEmail = "thibaud.lepretre@gmail.com"
 # Your profile picture
 # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-#IMG_7839.HEIC
-#picture = "https://lh3.googleusercontent.com/j46G97cmrA20muWTEBGLQPYHn0AhqYJx-f7ArZa6iB6ZI5f5RLcf8mc91Xc6OB9BQQJ-1mk4XyUGVyGbvt5PcSsx4wAXHcpl2kgbL7o7vUQyQZB--d-k129j94gsrmg4wtP9PYpVcA=w2400"
 picture = "https://live.staticflickr.com/65535/51601171609_5d026e748e_q.jpg"
 #150*150
 # Your Twitter username without the @. E.g : thibaudlepretre
@@ -147,14 +145,9 @@ sidebarBehavior = 2
 # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
 # and use relative url : `images/cover.jpg`
 #coverImage = "images/cover.jpg"
-#coverImage = "https://lh3.googleusercontent.com/pw/AM-JKLVXFT8mh7O9zwLBGpBpyR2va_iENMukJqH0fWlIY5QcXaXaLagWZXdxia4d15LHW7Mca_E7-wVFYZa_XauWXg7GfLKhdUiFZFhA285SKTzU6Z_3DAMAQoxfP3XkToeGWIx8hQ6trzNPhntP-pmqTyg=w1250-h937"
-#IMG_8323
-#coverImage = "https://lh3.googleusercontent.com/4LmEnlsgXZPGnsrZV0ynaPwM8p64OPW55Zi9QHCavVvszm2dlIf9jO3iU3yi5Re0ssr-tiHwkGR4fDnSTceTZ2A5pVweHI7ab5ACgpMv1LAlGdWfzYsYv4cBajg-iaKaN-miQRAsHg=w2400"
-#IMG_8005.HEIC
-coverImage = "https://lh3.googleusercontent.com/AACTfnSqJkPbtXdx1g_lVFSFnxwNQeh5bjfXpsg7mKCSe3wfpexhvFNtAtp1xl8wBO-7DnThufTbgqL9JoCQTU5iY_UzQQq02plBsHkvkpWHlbGn6n6RMzvENt6ArhrgfBezN0n3BA=w2400"
+#coverImage = "https://lh3.googleusercontent.com/AACTfnSqJkPbtXdx1g_lVFSFnxwNQeh5bjfXpsg7mKCSe3wfpexhvFNtAtp1xl8wBO-7DnThufTbgqL9JoCQTU5iY_UzQQq02plBsHkvkpWHlbGn6n6RMzvENt6ArhrgfBezN0n3BA=w2400"
 #IMG_8063.HEIC
-
-
+coverImage = "https://live.staticflickr.com/65535/51599767757_288a390e37_o.jpg"
 
 # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
 imageGallery = true
