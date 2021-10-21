@@ -13,7 +13,7 @@ tags:
 - Oregon Coastline
 thumbnailImagePosition: top
 thumbnailImage: https://live.staticflickr.com/65535/51598123729_39c629f109.jpg
-coverImage: https://live.staticflickr.com/65535/51598123729_db5d3594ce_o.jpg
+coverImage: https://live.staticflickr.com/65535/51598123729_f665b9e4bb_h.jpg
 metaAlignment: center
 #coverMeta: out #commenting it out put the metadata(name and date) on the full image
 
@@ -140,9 +140,9 @@ Things to do at {{< hl-text cyan >}}Crater Lake{{</ hl-text >}}:
 ## Day 4 - McKenzie River Trail Falls, Sea Lion Cave & Oregon Coastline
 
 New beautiful day began by visiting falls at McKenzie River Trail. It was quite refreshing, trails were properly marked & easy to walk.
-- Koosah and sahalie [falls](https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail)
-- Blue Pool - Tamolitch [fall](https://www.alltrails.com/trail/us/oregon/tamolitch-blue-pool-via-mckenzie-river-trail) 
-- Proxy [fall](https://www.alltrails.com/trail/us/oregon/proxy-falls)
+- [Koosah and sahalie falls](https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail)
+- [Blue Pool - Tamolitch fall](https://www.alltrails.com/trail/us/oregon/tamolitch-blue-pool-via-mckenzie-river-trail) 
+- [Proxy fall](https://www.alltrails.com/trail/us/oregon/proxy-falls)
 
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608287806_48681cfce1_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608287806_48681cfce1_o.jpg" >}}
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51608944574_cc0ec0fb9f_o.jpg" thumbnail="https://live.staticflickr.com/65535/51608944574_cc0ec0fb9f_o.jpg" >}}&nbsp;
@@ -168,14 +168,23 @@ We ate our packed dinner at the Neptune State Scenic Viewpoint watching the suns
 - After a beautiful day we spend night at Dublin House Motel -Yachats, Oregon. There are multiple good hotels in Yachts and all of them are near to beaches.
 
 
-## Day 5 - Oregon Coastline, Aquarium & Canon Beach
-So we finally reached to last day of our trip. We enjoyed every bit of last four days and wanted to make last day memorable. 
+## Day 5 - Oregon Coastline scenic points, Coast Aquarium & Canon Beach
+So we finally reached to the last day of our trip. We enjoyed every bit of the last four days and wanted to make last day memorable. We started the day by visiting the popular scenic points.
 
-##### Accommodation
-- Since we moved toward Smith rock state Park, we decided to call it a day near Prineville, OR 97754. Lots of good hotels options are available here.
+- Thor's Well
+- Cape Perpetua Overlook
+- Devils Punchbowl State Natural Area
 
+After that we head over to [Oregon Coast Aquarium](https://aquarium.org/), it is home of many aquatic animals like Sea Otters, Harbor Seals, Sea Lions, even Shark too. We had a great time there and if you are with kid then it is must place to visit. A quick video that I capture of jellyfish, do you know jellyfish is not really a fish :)
 
+{{< youtube BZiudIkCc0w >}}
 
+Last stop was Canon beach, here we spend most of time by just walking on sand. It is crowded beach but still lovely. We had fun there.
 
+{{< youtube FOwmo3LOLMI >}}
 
+After that we head over to PDX airport and found again Alaska airline is cancelled and they rebooked us again on American Airline, luckily this time American airline was not cancelled, and thus we safely returned to our home town Dallas.
+
+Hope you find it useful. See you at the next adventure!!  
+Raunak and Pinky Kapoor
 
