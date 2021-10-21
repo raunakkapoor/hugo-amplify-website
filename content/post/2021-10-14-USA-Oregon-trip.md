@@ -10,6 +10,8 @@ tags:
 - Road Trip
 - Sea Lions
 - Crater Lake
+- Canon Beach
+- Oregon Falls
 - Oregon Coastline
 thumbnailImagePosition: top
 thumbnailImage: https://live.staticflickr.com/65535/51598123729_39c629f109.jpg
