@@ -20,7 +20,7 @@ metaAlignment: center
 ---
 <!--more-->
 
-## Oregon Road Trip Itinerary - 5 to 6 Days
+## Oregon Road Trip Itinerary - 5 Days
 
 Hello Friends, hope y’all are doing well.
 
@@ -64,6 +64,8 @@ If you want to grab a quick bite or want to go to restroom, the [Multnomah lodge
 
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}}
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51600266297_b17a80a470_o.jpg" thumbnail="https://live.staticflickr.com/65535/51600266297_b17a80a470_o.jpg" >}}&nbsp;
+
+{{< youtube GyKWxpE6Pwk >}}
 
 Next stop [Tamanawas Falls trail](https://www.alltrails.com/trail/us/oregon/tamanawas-falls-trail), our intial plan was to pack the lunch and eat at the end of the 4 mile hike tail with gorgeous views of Tamanawas falls waterfall but we had to skip it as we spent good amount of time at Multnomah Falls. If you get chance, try including this stop in your itinerary. 
 
@@ -151,17 +153,23 @@ Next stop was famous America largest Sea lion [cave](http://www.sealioncaves.com
 
 {{< youtube -HcQdb2spRY >}}
 
-Now we finally arrived at the splendid Oregon coastline. First stop was Heceta Head Lighthouse State Scenic Viewpoint and nearby beach. When we reached Heceta Head Lighthouse was closed so we spent wonderful time at the beach. Water was so clean and cold, every moment there was mesmerizing. We ate our packed dinner at the beach by watching the sunset. It was really best moment of our trip.
 
+After that finally arrived at the splendid Oregon coastline. First stop was Heceta Head Lighthouse State Scenic Viewpoint and nearby beach area. When we reached Heceta Head Lighthouse, it was closed so we spent wonderful time at the beach. Water was so clean and cold, every moment we spent there was mesmerizing.   
 
+{{< youtube 2ekx2Geba5I >}}
 
+We ate our packed dinner at the Neptune State Scenic Viewpoint watching the sunset. It was really the best moment of our trip. {{< alert success >}}
+**Tip**: Neptune State Scenic Viewpoint is one of the best place to see the sunset. Very less crowd, clean beach and perfect full view of Sunset make it breathtaking.
+{{< /alert >}}
+
+{{< youtube m6Qyg9PH9NI >}}
 
 ##### Accommodation
-- Since we moved toward Smith rock state Park, we decided to call it a day near Prineville, OR 97754. Lots of good hotels options are available here.
+- After a beautiful day we spend night at Dublin House Motel -Yachats, Oregon. There are multiple good hotels in Yachts and all of them are near to beaches.
 
 
 ## Day 5 - Oregon Coastline, Aquarium & Canon Beach
-
+So we finally reached to last day of our trip. We enjoyed every bit of last four days and wanted to make last day memorable. 
 
 ##### Accommodation
 - Since we moved toward Smith rock state Park, we decided to call it a day near Prineville, OR 97754. Lots of good hotels options are available here.
