@@ -2,6 +2,7 @@
 title: "Oregon trip"
 date: 2021-10-14
 categories:
+- Travel
 - USA
 - Oregon
 tags:
