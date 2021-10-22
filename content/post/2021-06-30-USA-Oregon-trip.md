@@ -1,6 +1,6 @@
 ---
 title: "Oregon trip"
-date: 2021-10-14
+date: 2021-06-30
 categories:
 - Travel
 - USA
