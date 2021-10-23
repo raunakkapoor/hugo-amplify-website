@@ -68,7 +68,7 @@ If you want to grab a quick bite or want to go to the restroom, the [Multnomah l
 {{< /alert >}}
 
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" thumbnail="https://live.staticflickr.com/65535/51601104759_b67f1ef799_o.jpg" >}}
-{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51600266297_b17a80a470_o.jpg" thumbnail="https://live.staticflickr.com/65535/51600266297_b17a80a470_o.jpg" >}}&nbsp;
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51620069321_d43b667d1c_o.jpg" thumbnail="https://live.staticflickr.com/65535/51620069321_d43b667d1c_o.jpg" >}}&nbsp;
 
 {{< youtube GyKWxpE6Pwk >}}
 
@@ -110,8 +110,9 @@ Next stop [Painted Hills](https://www.nps.gov/joda/planyourvisit/ptd-hills-unit.
 **Note**: Summers can get pretty hot, so make sure to wear a hat, put on sunscreen and drink plenty of water when exploring the area. Only restroom facilities are located at the Painted Hills overlook trail head, so plan accordingly.
 {{< /alert >}}
 
-{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51604351426_5c8916cd2d_o.jpg" thumbnail="https://live.staticflickr.com/65535/51604351426_5174d3e117.jpg" >}}
-{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51596643652_c95e3f3c62_o.jpg" thumbnail="https://live.staticflickr.com/65535/51596643652_e9df959a63.jpg" >}}&nbsp;
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51620720314_54893ea778_o.jpg" thumbnail="https://live.staticflickr.com/65535/51620720314_7ab3340922.jpg" >}}
+{{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51620297333_7a25f2df30_o.jpg" thumbnail="https://live.staticflickr.com/65535/51620297333_d70e92da02.jpg" >}}&nbsp;
+
 
 ##### Accommodation
 - After long hikes at Smith rock state park and Painted hills, we decided to call to take rest near Prineville, Oregon. Lots of good restaurant & hotel options are available here, and it is between Smith rock state park and Painted hills.
