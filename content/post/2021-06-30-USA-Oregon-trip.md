@@ -23,7 +23,7 @@ metaAlignment: center
 ---
 <!--more-->
 
-## Oregon Road Trip Itinerary - 5 Days
+## Oregon Road Trip Itinerary - 6 Days
 
 Hello Friends, we hope you all are doing well.
 
@@ -51,7 +51,11 @@ While we were waiting on the flight, we saw the cockpit and talked with the pilo
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51596643447_56c32d127c_o.jpg" thumbnail="https://live.staticflickr.com/65535/51596643447_56c32d127c_o.jpg" >}}&nbsp;
 
 
-## Day 1 - Columbia river gorge National Scenic Area & Mount hood
+## Day 1 - Mount Rainier National Park, WA
+Initially, we thought to keep this trip only for Oregon, but we fall in love with mesmerizing Mount Rainier National Park and planned to spend at least one day there. As there were a lot of things to cover, we have added our day1 adventures [here](../../post/2021-06-29-usa-washington-trip).
+
+
+## Day 2 - Columbia river gorge National Scenic Area & Mount hood
 We decided to visit falls at [Columbia river gorge National Scenic Area](https://www.fs.usda.gov/main/crgnsa/home). There are several mesmerizing falls along the Columbia river gorge National Scenic Area; the ones we liked are:
 
 - [Multnomah Falls](https://www.fs.usda.gov/recarea/crgnsa/recarea/?recid=30026)
@@ -89,7 +93,7 @@ Things to do near Timberline Lodge:
 - [Village of Government Camp](https://mounthoodinfo.com/visitor-services/lodging/), lots of good lodging options are available here.
 
 
-## Day 2: Little crater lake, Smith rock state park & Painted Hills
+## Day 3: Little crater lake, Smith rock state park & Painted Hills
 
 A quick stop at [Little crater lake](https://www.alltrails.com/trail/us/oregon/little-crater-lake-trail). It is hidden treasure in Mount Hood National Forest. There is a small trail that is easy & calming, leading directly to the little crater lake. Give a visit if you are passing through.
 
@@ -117,7 +121,7 @@ Next stop [Painted Hills](https://www.nps.gov/joda/planyourvisit/ptd-hills-unit.
 ##### Accommodation
 - After long hikes at Smith rock state park and Painted hills, we decided to call to take rest near Prineville, Oregon. Lots of good restaurant & hotel options are available here, and it is between Smith rock state park and Painted hills.
 
-## Day 3 - Deschutes National Forest & Crater lake
+## Day 4 - Deschutes National Forest & Crater lake
 The next stop in our journey was [Deschutes National Forest](https://www.fs.usda.gov/main/deschutes/home), it has a lot of beautiful [trails](https://www.alltrails.com/parks/us/oregon/deschutes-national-forest) that you can choose. We selected Deschutes River Trail and had a fantastic time there.
 
 {{< image classes="fancybox fig-50" src="https://live.staticflickr.com/65535/51604502716_76e1fe69e4_o.jpg" thumbnail="https://live.staticflickr.com/65535/51604502716_76e1fe69e4_o.jpg" >}}
@@ -145,7 +149,7 @@ Things to do at {{< hl-text cyan >}}Crater Lake{{</ hl-text >}}:
 - If you don't get a booking there, you can stay at the nearest town Chemult, Oregon.
 
 
-## Day 4 - McKenzie River Trail Falls, Sea Lion Cave & Oregon Coastline
+## Day 5 - McKenzie River Trail Falls, Sea Lion Cave & Oregon Coastline
 
 A new beautiful day began by visiting falls at McKenzie River Trail. It was pretty refreshing; trails were marked correctly & easy to walk.
 - [Koosah and sahalie falls](https://www.alltrails.com/trail/us/oregon/koosah-and-sahalie-falls-trail)
@@ -176,7 +180,7 @@ We ate our packed dinner at the Neptune State Scenic Viewpoint, watching the Sun
 - After a beautiful day, we spend the night at Dublin House Motel -Yachats, Oregon. There are multiple good hotels on Yachts, and all of them are near beaches.
 
 
-## Day 5 - Oregon Coastline scenic points, Coast Aquarium & Canon Beach
+## Day 6 - Oregon Coastline scenic points, Coast Aquarium & Canon Beach
 So we finally reached the last day of our trip. We enjoyed every bit of the previous four days and wanted to make the last day memorable. We started the day by visiting the popular scenic points.
 
 - Thor's Well
